@@ -1,0 +1,42 @@
+Task 1: Data Cleaning:- 
+
+Q-1 How can we remove duplicate records and ensure uniform formatting of state names across the dataset?
+Q-2 What methods can be used to detect and correct invalid characters, standardize missing values, and fix inconsistent gender entries?
+Q-3 How do we enforce a consistent date format for transaction_date and eliminate incomplete records?
+Q-4 What steps should be taken to standardize addresses, unify gender labels, and clean job-related fields for accuracy?
+
+Task 2: Customer Segmentation:- 
+
+Q-1 1) Show the number of customers in each wealth_segment?
+    2) Calculate the average tenure for each wealth_segment?
+
+Q-2 1) Showing the number of customers by gender?
+    2) Calculate the average past_3_years_bike_related_purchases for each gender?
+
+Q-3 1) Showing the number of customers in each job_industry_category?
+    2) Analyze the distribution of wealth_segment within each industry?
+
+Task 3: Transaction Analysis:- 
+
+Q-1 How can we analyze monthly sales trends by creating a chart of total sales per month and identifying any seasonal patterns or significant spikes?
+Q-2 How can we evaluate product performance by showing total sales for each brand and calculating both total sales and average list price for each product line?
+
+Q-3 1) Identify the top 10 customers based on total transaction value?
+    2) Calculate the average number of purchases per customer?
+
+Task 4: New Customer Insights :- 
+
+Q-1 How can we understand new customer demographics by visualizing their distribution across wealth segments and job industry categories, and calculating their average bike-related purchases over the past three years?
+
+Q-2 1) How can we analyze the geographic distribution of new customers by state and examine the relationship between property valuation and wealth segment?
+    2) Estimate potential revenue based on past_3_years_bike_related_purchases and value?
+
+Task 5: Customer Lifetime Value (CLV) Analysis:- 
+
+Q-1 How can we calculate the Customer Lifetime Value (CLV) for each customer using the given formula and transaction data?
+
+Q-2 1) Show average CLV by wealth_segment.
+    2) Analyze the relationship between CLV and customer demographics (e.g., gender, job industry).
+
+Task 6: Executive Summary and Recommendations:- 
+Q-1 How can we summarize key insights from customer segmentation, transaction analysis, new customer insights, and CLV analysis, and provide actionable recommendations for marketing strategies, business expansion, and product improvements? 
